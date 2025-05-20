@@ -4,6 +4,10 @@
   "description": "A new tab page that emphasizes setting priorities",
   "private": true,
   "scripts": {
+    "dev": "vite serve prioritab-bundle --open",
     "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "vite": "^5.0.0"
   }
 }

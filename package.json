@@ -1,0 +1,9 @@
+{
+  "name": "prioritab",
+  "version": "2.0.0",
+  "description": "A new tab page that emphasizes setting priorities",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step required'"
+  }
+}
